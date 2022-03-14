@@ -5,10 +5,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software engineer focusing on web development. 
-🎓&nbsp;I graduated form Universidad de Guadalajara (Bachelor's Degree in Engineering, Batch of 2021).
-🌱 &nbsp;I'm on track for learning more about backend development and server side rendering as well as UX and UI knowledge.
-✍️ &nbsp;In my free time, I do digital illustration, play video games and cook new recipes.
+💡 &nbsp; I'm a software engineer focusing on web development.<br/>
+🎓&nbsp;I graduated form Universidad de Guadalajara (Bachelor's Degree in Engineering, Batch of 2021).<br/>
+🌱 &nbsp;I'm on track for learning more about backend development and server side rendering as well as UX and UI knowledge.<br/>
+✍️ &nbsp;In my free time, I do digital illustration, play video games and cook new recipes.<br/>
 
 ### 🛠 &nbsp;Tech Stack
 
