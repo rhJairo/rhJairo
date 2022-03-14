@@ -1,4 +1,4 @@
-![New Project(3)](https://user-images.githubusercontent.com/8826211/158102522-36e236b2-0e20-408c-93a4-06295c0877c9.png)
+![New Project(4)](https://user-images.githubusercontent.com/8826211/158103081-51311d68-17c3-458c-8572-8ce11db94441.png)
 
 👀 Hello there !
 
@@ -22,4 +22,4 @@
 
 ### 📫 &nbsp; How to reach me:
 
-`<a href="https://www.linkedin.com/in/jairo-r-h/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>``</a>`
+<a href="https://www.linkedin.com/in/jairo-r-h/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
